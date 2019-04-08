@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="394c021b-032e-4749-9877-9b251bf65a1a" name="NTIC" url="http://192.168.1.116">
+        <fileTransfer host="192.168.1.116" port="22" privateKey="C:\Users\acerc\.ssh2\id_rsa2.ppk" rootFolder="/home/acercyc/Project_Araya/NTIC" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
